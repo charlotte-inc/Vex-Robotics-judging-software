@@ -1,0 +1,15 @@
+[project]
+name = "vex-robotics-judges-software"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = ['pandas',
+                'requests',
+                'ipykernel',
+                'geneticalgorithm2',
+                'python-calamine',
+                'xlrd',
+                'dash',
+                'dash_bootstrap_components',
+                'furl']
